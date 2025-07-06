@@ -5,10 +5,10 @@
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 31329
-# IP-CIDR: 112
+# IP-CIDR: 113
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31569
+# TOTAL: 31570
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -31541,6 +31541,7 @@ IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,35.157.215.84/32,no-resolve
 IP-CIDR,35.157.217.255/32,no-resolve
 IP-CIDR,37.77.184.0/21,no-resolve
+IP-CIDR,47.79.0.0/16,no-resolve
 IP-CIDR,45.57.0.0/17,no-resolve
 IP-CIDR,45.64.40.0/22,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
